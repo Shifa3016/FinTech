@@ -13,8 +13,6 @@ A clean, interactive finance dashboard built with **Next.js 14**, **JavaScript**
 ### Installation
 
 ```bash
-# Clone / unzip the project
-cd finance-dashboard
 
 # Install dependencies
 npm install
